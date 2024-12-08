@@ -91,3 +91,14 @@ Allow exporting models and results directly as files.
 
 This project is ideal for anyone looking to simplify the machine learning workflow while learning key concepts. Feel free to contribute or suggest improvements!
 Happy Coding!
+
+
+
+
+
+
+![AutoML_System](https://github.com/user-attachments/assets/ce24049c-45d0-476b-a11f-94da33fba70c)
+
+
+
+
