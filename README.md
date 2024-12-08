@@ -102,3 +102,32 @@ Happy Coding!
 
 
 
+![AutoML_System1](https://github.com/user-attachments/assets/b5b8d77a-bddb-40ee-aceb-879915370f1a)
+
+
+
+
+
+![AutoML_System2](https://github.com/user-attachments/assets/35f30aed-fe9c-4bc8-9e15-a7c523be90b8)
+
+
+
+
+
+
+
+![AutoML_System3](https://github.com/user-attachments/assets/bf94ef90-af36-451a-873b-32fd35baf5cc)
+
+
+
+
+
+
+![AutoML_System4](https://github.com/user-attachments/assets/2f29408a-f496-4e29-b9f1-1b12893ef4bf)
+
+
+
+
+
+![AutoML_System5](https://github.com/user-attachments/assets/4204b6cc-285c-419f-952d-dc94d8ae8149)
+
